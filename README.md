@@ -1,2 +1,2 @@
-# githubPerScolas
+# githubPerScholas
 PerScholas code repository
