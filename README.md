@@ -1,5 +1,5 @@
 # githubPerScholas
 # Main Branch DEMO
-## Small lab exercises demonstrating code repositories within github
-### these are lab exercises that had to be coded out
-##### another line demonstration for README.md file
+## Small coding exercises demonstrating code repositories within github
+### README.MD file 
+##### Note:  Side repository branch with coding exercieses is pslab
