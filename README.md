@@ -1,5 +1,5 @@
 # githubPerScholas
 # DEMO
-## test
-### this is a test
-##### another line
+## Small lab exercises demonstrating code repositories within github
+### these are lab exercises that had to be coded out
+##### another line demonstration for README.md file
